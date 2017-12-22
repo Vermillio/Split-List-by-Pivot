@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task5\task5\source.cpp(12): warning C4091: typedef : пропускается слева от "List", когда ни одна переменная не объявлена
+  Task5.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task5\Debug\Task5.exe
+  Task5.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task5\Debug\Task5.pdb (Partial PDB)
